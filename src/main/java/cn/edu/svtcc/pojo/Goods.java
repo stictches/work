@@ -24,7 +24,9 @@ public class Goods implements Serializable {
   private Integer goodPrice;
   private String goodImage;
   private String hotGood;
-
+  /**
+   *
+   */
   private Integer ac;
 
 }
